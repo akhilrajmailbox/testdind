@@ -3,9 +3,9 @@ entries:
   dind:
   - apiVersion: v1
     appVersion: stable-dind
-    created: "2020-04-15T18:39:48.272754+05:30"
+    created: "2020-04-15T18:46:51.851703+05:30"
     description: DinD Deployment chart
-    digest: 8643d82aa68a17e089c0e964d4992cc8425556c792afe8bc4405f7e53d197e2d
+    digest: 60812d9f2e6938eb7c3a27bde947a225412e5072bbb2fb388c80024f5ec8e622
     keywords:
     - dind
     - Kubernetes
@@ -14,4 +14,4 @@ entries:
     urls:
     - dind-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-15T18:39:48.266785+05:30"
+generated: "2020-04-15T18:46:51.847542+05:30"
