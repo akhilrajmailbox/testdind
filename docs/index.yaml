@@ -3,15 +3,15 @@ entries:
   dind:
   - apiVersion: v1
     appVersion: stable-dind
-    created: "2020-04-15T17:15:41.256326+05:30"
+    created: "2020-04-15T18:39:48.272754+05:30"
     description: DinD Deployment chart
-    digest: 6b7359d40fa2c265dac52e24916842e6a093a53ee009c1642da3c3d82ecec211
+    digest: 8643d82aa68a17e089c0e964d4992cc8425556c792afe8bc4405f7e53d197e2d
     keywords:
     - dind
     - Kubernetes
     - chaincode
     name: dind
     urls:
-    - https://akhilrajmailbox.github.io/testdind/dind-0.1.0.tgz
+    - dind-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-15T17:15:41.253514+05:30"
+generated: "2020-04-15T18:39:48.266785+05:30"
